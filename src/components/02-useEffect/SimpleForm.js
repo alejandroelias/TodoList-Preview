@@ -12,9 +12,9 @@ export const SimpleForm = () => {
 
     const {name, email}=formState;  
 
-    useEffect(()=>{
-        // console.log('hey!')
-    },[]);
+    // useEffect(()=>{
+    //     // console.log('hey!')
+    // },[]);
     
     useEffect(()=>{
         // console.log('formState cambio')

@@ -15,3 +15,6 @@ export const useForm = (initialState = {}) => {
     return [values, handleInputChange]
     
 }
+
+
+//Este es un customHook que se encarga de manejar los formularios
